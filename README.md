@@ -28,7 +28,7 @@ A 3D Tic Tac Toe game built in Unity, powered by a decoupled C# game engine and 
 ## Getting Started
 
 1. **Install Unity**: Make sure you have Unity Hub and Unity Editor (Unity 2022, Unity 6, or newer) installed.
-2. **Open Project**: Add the `C:\Kiro\Unity\TicTacToe` folder to Unity Hub and open it.
+2. **Open Project**: Add the project root folder to Unity Hub and open it.
 3. **Run the Game**:
    - Double-click the scene file located at `Assets/Scenes/SampleScene.unity`.
    - Click the **Play** button at the top of the Unity Editor.
